@@ -1,0 +1,1 @@
+<?php echo "Primeiro comando em PHP" ?>
