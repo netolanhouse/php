@@ -1,1 +1,1 @@
-<?php echo "Primeiro comando em PHP" ?>
+<?php echo "Hello world!" ?>
